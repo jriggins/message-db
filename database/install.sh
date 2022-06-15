@@ -70,10 +70,10 @@ function create-table {
 
 echo
 
-echo "Creating User"
-echo "- - -"
-create-user
-echo
+#echo "Creating User"
+#echo "- - -"
+#create-user
+#echo
 
 echo "Creating Database"
 echo "- - -"
